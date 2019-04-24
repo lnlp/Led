@@ -1,3 +1,13 @@
+/* Led.cpp
+ *
+ * Description:  Arduino library for controlling LEDs via GPIOs in a simple and straightforward way.
+ *               Makes controlling LEDs easy using clean and simple code (e.g. on, off, toggle, flash).
+ * 
+ * Author:       Leonel Lopes Parente
+ * License:      MIT (see LICENSE file in repository root)
+ * 
+ */
+
 #include "Led.h"
 
 Led::Led(
